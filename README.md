@@ -3,7 +3,7 @@
 
 This mini project demonstrates basic to intermediate SQL skills using a simple sales dataset. It includes table creation, data insertion, and various SQL queries for analysis.
 
-## 🛠 Tool Used
+## Tool Used
 
 - **SQL Server** (via OneCompiler or local setup)
 
